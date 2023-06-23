@@ -1,1 +1,51 @@
+body {
+  font-size: 16px;
+  color: black ;
+  font-family: 'Oxygen', sans-serif;
+}
 
+#header-nav{
+	background-color: gray;
+	position:relative;
+	border:3px black;
+	margin-bottom: 0;
+	border-radius: 0;
+}
+#brand{
+	font-size:50px;
+	color:black bold;
+	position: left center;
+}
+.container{
+	margin:0;
+
+}
+
+a {
+	color:black;
+}
+header {
+	border:3px black solid;
+}
+
+#menu{
+	width: 100%;
+	font-size:25px;
+	padding:20px;	
+}
+#menu-container{
+	width:100%;
+}
+
+.body-container{
+	background-color:gray;
+	padding:15px;
+	margin:20px;
+}
+
+li a {
+	text-align: center;
+	background-color: white;
+	font-weight: bold;
+	color:black;
+}
